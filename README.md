@@ -837,6 +837,7 @@ _Libraries for building and using SQL._
 - [go-elasticsearch](https://github.com/elastic/go-elasticsearch) - Official Elasticsearch client for Go.
 - [goes](https://github.com/OwnLocal/goes) - Library to interact with Elasticsearch.
 - [skizze](https://github.com/seiflotfy/skizze) - probabilistic data-structures service and storage.
+- [ZincSearch](https://github.com/zinclabs/zinc) - A lightweight alternative to elasticsearch that requires minimal resources.
 
 **[⬆ back to top](#contents)**
 
